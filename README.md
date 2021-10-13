@@ -1,6 +1,7 @@
 # Hulu Clone
 
-This clone is built with React, Next.js and Tailwind CSS
+This clone is built with React, Next.js and Tailwind CSS.
+Data is pulled in with the TMDB.org API.
 
 It uses the new [`Just-in-Time Mode`](https://tailwindcss.com/docs/just-in-time-mode) for Tailwind CSS.
 
