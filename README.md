@@ -8,5 +8,5 @@ It uses the new [`Just-in-Time Mode`](https://tailwindcss.com/docs/just-in-time-
 
 Preview the example live on [Vercel](http://vercel.com/):
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/vercel/next.js/tree/canary/examples/with-tailwindcss)
+[![Open in Vercel](https://hulu-clone-tjrich.vercel.app/)
 
